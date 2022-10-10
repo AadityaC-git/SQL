@@ -8,3 +8,6 @@ select case
     else "Scalene"
     END
 from TRIANGLES;
+
+
+ok thats it
